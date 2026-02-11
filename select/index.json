@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Can't Stop",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:28:24.866277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/01_We_Can't_Stop_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Stop Myself from Loving You",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/02_Can't_Stop_Myself_from_Loving_You_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't Stop Loving You",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/03_I_Can't_Stop_Loving_You_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can't Stop Loving You - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/04_I_Can't_Stop_Loving_You_-_Single_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can't Stop Loving You (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/05_I_Can't_Stop_Loving_You_(Single_Version)_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm So Happy I Can't Stop Crying",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_I'm_So_Happy_I_Can't_Stop_Crying_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't Stop",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/07_Can't_Stop_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Stop Now",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/08_Can't_Stop_Now_Keane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Stop the Shining (Rip Rock, Pt. 2)",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/09_Can't_Stop_the_Shining_(Rip_Rock,_Pt._2)_Pras.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Stop The Shining (Rip Rock",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/10_Can't_Stop_The_Shining_(Rip_Rock_Pras.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Stop Now (Armor Love remix)",
+      "artist": "Major Lazer & La Roux",
+      "has_synced": true,
+      "path": "select/11_Can't_Stop_Now_(Armor_Love_remix)_Major_Lazer_&_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Stop",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/12_Can't_Stop_M83.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Stop",
+      "artist": "Mayer Hawthorne feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/13_Can't_Stop_Mayer_Hawthorne_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Stop",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/14_Can't_Stop_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Stop",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/15_Can't_Stop_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Stop",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Stop_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
